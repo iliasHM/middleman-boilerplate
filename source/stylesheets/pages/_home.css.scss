@@ -1,0 +1,31 @@
+
+#banner{
+  background-image: image-url('outils.jpg');
+  padding: 30px;
+  color: white;
+  background-size: cover;
+  // height: 0px;
+  h1 {
+    font-size: 90px;
+    padding-bottom: 310px;
+  }
+  p {
+    font-size: 35px;
+    font-weight: 100;
+    text-shadow: 3px 0 0 black;
+  }
+}
+
+#footer{
+  background: #141414;
+  padding: 30px 0;
+  color: gainsboro;
+}
+
+#padded-bottom {
+  padding-bottom: 30px;
+}
+
+#features img {
+  height: 70px;
+}
