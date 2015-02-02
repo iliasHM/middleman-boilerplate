@@ -1,0 +1,20 @@
+- name: New spot
+  picture: http://placehold.it/150x150
+  summary: The <strong>smartest</strong> Stylus.<br>Write no more typos..
+  price: 199€
+  color: primary
+- name: Old spot
+  picture: http://placehold.it/150x150
+  summary: The <strong>quickest</strong> Stylus.<br>Write texts before you do..
+  price: 299€
+  color: warning
+- name: Middle spot
+  picture: http://placehold.it/150x150
+  summary: The <strong>quickest</strong> Stylus.<br>Write texts before you do..
+  price: 599€
+  color: info
+- name: Final spot
+  picture: http://placehold.it/150x150
+  summary: The <strong>quickest</strong> Stylus.<br>Write texts before you do..
+  price: 899€
+  color: danger
